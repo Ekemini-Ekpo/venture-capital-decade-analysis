@@ -12,15 +12,15 @@ patterns to surface insights relevant to investors and strategy practitioners.
  **Series A dominated historically** : representing nearly double the deal 
 volume of Series B and C+ combined in 2004-2013, suggesting investors 
 concentrated capital at growth stage
- **The market shifted earlier** : Seed and Pre-Seed now account for the 
+ **The market shifted earlier** , Seed and Pre-Seed now account for the 
 majority of modern deals (1,067 and 890 respectively), reflecting lower startup 
 costs and higher-volume early-stage bets
- **AI and Fintech define the modern era** : sector concentration has shifted 
+ **AI and Fintech define the modern era** , sector concentration has shifted 
 dramatically from broad distribution to heavy concentration in Artificial 
 Intelligence and Financial Technology
- **Geographic concentration persists** : the United States maintains 
+ **Geographic concentration persists** , the United States maintains 
 disproportionate startup activity dominance even in the modern dataset
-- **Funding volume grew sharply through 2013** — total annual funding rose 
+ **Funding volume grew sharply through 2013** , total annual funding rose 
 steeply from 2004-2013, setting the foundation for the post-pandemic boom
 
 ## Tools & Methods
